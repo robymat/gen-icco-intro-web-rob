@@ -1,0 +1,7 @@
+inicializar un repo
+git init
+git add .
+git commit -m "mi mensaje"
+
+subir repo
+tener un repo listo(comandos listo)
